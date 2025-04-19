@@ -1,9 +1,8 @@
 
 (function () {
   const urls = [
-    "https://www.effectiveratecpm.com/ge65qx6gs?key=28a0fcaf13c60ae90e1d94503ac2f67b",
-    "https://www.effectiveratecpm.com/w4deur4mzh?key=f9741a58a274f0182a88f1ff37734bd9",
-    "https://www.effectiveratecpm.com/ge65qx6gs?key=28a0fcaf13c60ae90e1d94503ac2f67b"
+    "https://www.profitableratecpm.com/ymkq6d6p?key=187493c8159e3934f28c7782b0f1cf04",
+    "https://www.profitableratecpm.com/xe9ywmt8d?key=bab4804d69366375fc41ad51af50f9ec"
   ];
 
   let index = 0;
